@@ -3,11 +3,10 @@
  * @author ClearVision Team
  * @version made by zen
  * @description Highly customizable theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
+ * @source 
+ * @website 
  * @invite dHaSxn3
  */
-
 /* Credits to Zerthox for making the original theme. */
 
 /* IMPORT CSS */
@@ -40,7 +39,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://media.tenor.com/qkr4lAwgRt4AAAAd/anime.gif); /* app background image (link must be HTTPS) [default: url(https://media.tenor.com/qkr4lAwgRt4AAAAd/anime.gif)]*/
+  --background-image: url(https://i.pinimg.com/originals/b1/d0/ed/b1d0ed397ba2e184c7c86dad3728bbdb.gif); /* app background image (link must be HTTPS) [default: url(https://i.pinimg.com/originals/b1/d0/ed/b1d0ed397ba2e184c7c86dad3728bbdb.gif)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
@@ -54,8 +53,8 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://i.pinimg.com/originals/4f/f7/7b/4ff77b4cadd5ef2e596b25f2cc5b1b8a.jpg); /* home button icon (link must be HTTPS) [default: url(https://i.pinimg.com/originals/4f/f7/7b/4ff77b4cadd5ef2e596b25f2cc5b1b8a.jpg)]*/
-  --home-position: center; /* home button icon position [default: center] */
+  --home-icon: url(https://brokerbinary.top/wp-content/uploads/2019/05/anime-bitcoin.jpg); /* home button icon (link must be HTTPS) [default: url(https://i.pinimg.com/originals/4f/f7/7b/4ff77b4cadd5ef2e596b25f2cc5b1b8a.jpg)]*/
+  --home-position: fill; /* home button icon position [default: fill] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
